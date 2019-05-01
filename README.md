@@ -11,3 +11,6 @@ The results provided by this tool can helps us to infer the node load, traffic d
 
 Recentelly, we are investigating the IP TTL from the packets that each anycast node receive. This projects aims to investigate 
 the TTL distribution and explore anomalies in the value distribution.
+
+[1] http://www.sand-project.nl/
+[2] https://ant.isi.edu/software/verfploeter/index.html
