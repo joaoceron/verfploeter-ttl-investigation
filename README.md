@@ -14,3 +14,8 @@ the TTL distribution and explore anomalies in the value distribution.
 
 [1] http://www.sand-project.nl/ <br>
 [2] https://ant.isi.edu/software/verfploeter/index.html
+
+
+
+
+![TTL clusters](https://github.com/joaoceron/verfploeter-ttl-investigation/blob/master/dataset/imgs/ttl.gif)
